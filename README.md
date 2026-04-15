@@ -1,6 +1,5 @@
 <h1>Hi There,</h1>
-💫 About Me:
-🔭 I’m currently working on Algorithms<br>👯 I’m looking to collaborate on B_LOG<br>🌱 I’m currently learning DSA<br>💬 Ask me about game developement using pygame<br>⚡ Fun fact - HTML is a  programming language
+🔭 I’m currently working on React.<br>👯 I’m looking to collaborate on Bingo<br>🌱 I’m currently learning DSA<br>💬 Ask me about frontend web developement using React.<br>⚡ Fun fact - There are only 10 types of people in the world: those who understand binary and those who don`t.
 
 
 ## 🌐 Socials:
